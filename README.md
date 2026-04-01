@@ -4,7 +4,7 @@ Welcome to **Prompt-a-thon 2026!** This is the ultimate starting point for your 
 
 Your goal is to use your imagination and AI coding agents to build upon this foundation. Transform it into something entirely new, expand on its mechanics, or completely overhaul the design—the choice is yours.
 
-## 🏆 Judging Criteria
+## Judging Criteria
 
 Your final submission will be evaluated based on the following metrics:
 
@@ -15,7 +15,7 @@ Your final submission will be evaluated based on the following metrics:
 
 Good luck, have fun, and let your creativity run wild!
 
-## 📞 Support
+## Support
 
 If you have any problems or need help, contact:
 - Arya Wadhwa: [aryawadhwa.ai24@rvce.edu.in](mailto:aryawadhwa.ai24@rvce.edu.in)
