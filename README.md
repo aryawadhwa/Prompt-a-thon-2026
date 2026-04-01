@@ -14,3 +14,7 @@ Your final submission will be evaluated based on the following metrics:
 - **UI/UX (20%)**: Visual appeal, polish, and overall user experience.
 
 Good luck, have fun, and let your creativity run wild!
+
+## 📞 Support
+
+If you have any problems or need help, contact: [aryawadhwa.ai24@rvce.edu.in](mailto:aryawadhwa.ai24@rvce.edu.in)
